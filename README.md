@@ -1,1 +1,2 @@
-# mojito
+# Mojito
+Recette pour une personne
